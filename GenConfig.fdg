@@ -12,12 +12,12 @@
     "Frontend": {
       "EmberJs": {
         "EmberApp": true,
-        "EmberAddon": true,
-        "Build": true,
-        "GitClone": true,
-        "GitPush": true,
-        "GhPagesPush": true,
-        "EmberMetadata": true
+        "EmberAddon": false,
+        "Build": false,
+        "GitClone": false,
+        "GitPush": false,
+        "GhPagesPush": false,
+        "EmberMetadata": false
       },
       "ApacheCordova": {
         "CordovaProject": false,
